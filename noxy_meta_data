@@ -1,9 +1,9 @@
 Variable,Value
 Conventions,"CF-1.6, NCAS-AMF-1.0"
-source,"Cape Verde Atmospheric Observatory Wind Sonic"
-instrument_manufacturer,"Gill Instruments Ltd."
-instrument_model,"Windsonic Option 2"
-instrument_name,ncas-sonic-4
+source,"Cape Verde Atmospheric Observatory NOxy"
+instrument_manufacturer,"Air Quality Design"
+instrument_model,"High Sensitivity NOx Monitor unit"
+instrument_name,ncas-noxy-1
 instrument_serial_number
 instrument_software,"N/A"
 instrument_software_version,"N/A"
@@ -20,8 +20,8 @@ product_version
 processing_level
 last_revised_date
 project
-project_principal_investigator
-project_principal_investigator_email
+project_principal_investigator,"Katie Read"
+project_principal_investigator_email,katie.read@ncas.ac.uk
 project_principal_investigator_url
 licence,"Data usage licence - UK Government Open Licence agreement: http://www.nationalarchives.gov.uk/doc/open-government-licence"
 acknowledgement,"Acknowledgement of NCAS as the data provider is required whenever and wherever these data are used"
