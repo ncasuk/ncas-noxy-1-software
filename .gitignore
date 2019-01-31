@@ -10,3 +10,4 @@ tmp/nanoc/
 crash.log
 *.swp
 venv/
+netcdf/
