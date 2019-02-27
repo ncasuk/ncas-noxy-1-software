@@ -50,7 +50,7 @@ class Noxy1 (AMFInstrument):
         Takes a dataframe (self.rawdata) with NOxy data and outputs a 
         well-formed NetCDF using appropriate conventions.
 
-        :param output_dir: string contaiing path to output directory
+        :param output_dir: string containing path to output directory
 
         """
 
